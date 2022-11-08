@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Laura 
-- 👀 I’m interested in talking about Coding, Women in Tech
+- 👀 I’m interested in talking about Coding, Women in Tech https://link.medium.com/s3vNKIiKDub
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on projects that raise awareness Women in tech, struggles of career changers moving into tech and Backend Development.
 - 📫 How to reach me - LinkedIn 
